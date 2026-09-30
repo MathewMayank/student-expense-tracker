@@ -59,6 +59,5 @@ If I get more time later, I'd like to add:
 
 ## Author
 
-[Your Name]
-Semester 1, [Your Branch]
-[Your College Name]
+Student: Mathew Mayank
+Registration Number: 26BEC10054
